@@ -1,4 +1,4 @@
-<h1 align ="center"> Hi there 👋, I am Mahmoud Mesalem</h1>
+<h1 align ="center"> Hi there 👋, I am Tarek Ahmed</h1>
 
 <br>
 
@@ -6,28 +6,23 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Mesalem&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMOUDMESALEM" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/174h2RyLBId3_yNRk3UOBC_B8V_jUM_VM/view?usp=sharing" alt="Tarek" /> </p>
 
-- 🌱 I’m currently a **Software Testing Engineer, ISTQB®-Certified Tester Foundation Level**
+- 🌱 I’m currently a **Software Testing Engineer**
 
 - 👯 I’m looking to collaborate on **Big Valuable Projects**
 
 - 💬 Ask me about **Manual and Automation Testing**
 
-<!--- - ⚒️ Currently working on a simple Operating system and DataMining-Algorithms-ToolKit Python package  -->
+<!--- - 🤝 I’m looking for help with **Finding full-time or part-time job** -->
 
-<!--- - 🤝 I’m looking for help with **Finding internship or part-time job** -->
 
-- 📄 Know about my experiences [https://3bsatar.github.io/resume/](https://3bsatar.github.io/resume/)
-
-- 📫 How to reach me: **mahmoudmesalem23@gmail.com**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud-mesalem/](https://www.linkedin.com/in/mahmoud-mesalem/)
+- 📫 How to reach me: **tarekahmed0128@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mahmoud-mesalem/">
+<a href="https://www.linkedin.com/in/tarek-el-shafei-647698205/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="30">
 </a>
 
