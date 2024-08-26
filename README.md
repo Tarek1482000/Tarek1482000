@@ -2,7 +2,7 @@
 
 <br>
 
-<h2> Software Testing Engineer</h2>
+<h2> Software Testing Engineer from Egypt</h2>
 
 <br>
 
@@ -26,7 +26,6 @@
 </a>
 </p>
 
-<h3 align="center">A passionate software testing engineer from Egypt</h3>
 
 <p align="left">
 </p>
