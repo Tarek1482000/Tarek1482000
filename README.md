@@ -6,7 +6,6 @@
 
 <br>
 
-<p align="left"> <img src="https://drive.google.com/file/d/174h2RyLBId3_yNRk3UOBC_B8V_jUM_VM/view?usp=sharing" alt="Tarek" /> </p>
 
 - 🌱 I’m currently a **Software Testing Engineer**
 
