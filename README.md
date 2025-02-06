@@ -1,36 +1,59 @@
-<h1 align ="center"> Hi there 👋, I am Tarek Ahmed</h1>
+<h1 align="center"> Hi there 👋, I'm Tarek Ahmed</h1>
 
-<br>
+<h2 align="center">💻 Software Testing Engineer | QA Automation | Performance Testing</h2>
 
-<h2> Software Testing Engineer from Egypt</h2>
+---
 
-<br>
+## 🚀 About Me
 
+- 🔍 Passionate **Software Testing Engineer** with expertise in **Manual Testing, Automation, and Performance Testing**.  
+- 🏢 Currently working at **ASAS** as a **Software Testing Engineer**.  
+- 💡 I enjoy solving complex **testing challenges** and ensuring **high-quality software products**.  
+- 🤝 Always open to collaborating on **exciting and impactful projects**.  
+- 🎯 Strong knowledge in **Test Automation, API Testing, Functional & Non-Functional Testing**.  
+- 📚 Continuously learning and improving **Test Strategies, Automation Frameworks, and Agile Testing**.  
+- ✨ Advocate for **Quality Assurance (QA) best practices** and efficient **test automation solutions**.  
 
-- 🌱 I’m currently a **Software Testing Engineer At ASAS**
+---
 
-- 👯 I’m looking to collaborate on **Big Valuable Projects**
+## 💬 What I Can Help You With:
+✅ **Manual Testing** - Writing and executing detailed test cases.  
+✅ **Automation Testing** - Using Selenium, Python, Java, and TestNG frameworks.  
+✅ **Performance Testing** - Ensuring system reliability using JMeter & Load Testing tools.  
+✅ **API Testing** - Using Postman & REST Assured for API validation.  
+✅ **Bug Tracking & Reporting** - Expertise in Jira, TestRail & other test management tools.  
 
-- 💬 Ask me about **Manual - Automation - Performance Testing**
+---
 
-<!--- - 🤝 I’m looking for help with **Finding full-time or part-time job** -->
+## 📫 How to Reach Me:
+📧 Email: **tarekahmed0128@gmail.com**  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/tarek-el-shafei-647698205/)  
 
+---
 
-- 📫 How to reach me: **tarekahmed0128@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tarek-el-shafei-647698205/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="30">
-</a>
+## ⚡ Tech Stack & Tools:
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.selenium.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="40" height="40"/> </a>
+  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
+  <a href="https://www.jmeter.apache.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/JMeter.svg" alt="JMeter" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a>
 </p>
 
+---
 
-<p align="left">
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TarekAhmedQA&show_icons=true&theme=dark" alt="Tarek's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekAhmedQA&theme=dark" alt="GitHub Streak" width="48%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+---
 
-
+🎯 **Let's Connect & Build Something Amazing Together!** 🚀  
