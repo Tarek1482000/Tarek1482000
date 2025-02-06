@@ -50,10 +50,9 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekAhmedQA&show_icons=true&theme=dark" alt="Tarek's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekAhmedQA&theme=dark" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarek1482000&show_icons=true&theme=dark" alt="Tarek's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarek1482000&theme=dark" alt="GitHub Streak" width="48%"/>
 </p>
-
 ---
 
 🎯 **Let's Connect & Build Something Amazing Together!** 🚀  
