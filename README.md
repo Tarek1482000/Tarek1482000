@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Big Valuable Projects**
 
-- 💬 Ask me about **Manual and Automation Testing**
+- 💬 Ask me about **Manual - Automation - Performance Testing**
 
 <!--- - 🤝 I’m looking for help with **Finding full-time or part-time job** -->
 
