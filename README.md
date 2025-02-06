@@ -7,7 +7,7 @@
 <br>
 
 
-- 🌱 I’m currently a **Software Testing Engineer**
+- 🌱 I’m currently a **Software Testing Engineer At ASAS**
 
 - 👯 I’m looking to collaborate on **Big Valuable Projects**
 
