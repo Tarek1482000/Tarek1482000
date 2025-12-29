@@ -18,7 +18,7 @@
 
 ## 💬 What I Can Help You With:
 ✅ **Manual Testing** - Writing and executing detailed test cases.  
-✅ **Automation Testing** - Using Selenium, Python, Java, and TestNG frameworks.  
+✅ **Automation Testing** - Using Selenium, Java, Playwright, and TestNG frameworks.  
 ✅ **Performance Testing** - Ensuring system reliability using JMeter & Load Testing tools.  
 ✅ **API Testing** - Using Postman & REST Assured for API validation.  
 ✅ **Bug Tracking & Reporting** - Expertise in Jira, TestRail & other test management tools.  
